@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+Hola, I'am PramodhKumar!👋
 
 - 🔭 I’m currently working on Internshi
 - 🌱 I’m currently learning Python With machine Learning
