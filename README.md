@@ -1,6 +1,6 @@
 Hola, I'am PramodhKumar!👋
 
-- 🔭 I’m currently working on Internshi
+- 🔭 I’m currently working on Internship
 - 🌱 I’m currently learning Python With machine Learning
 - 👯 I’m looking to collaborate on Devolopers
 - 🤔 I’m looking for help with ...
