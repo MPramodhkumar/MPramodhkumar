@@ -1,4 +1,4 @@
-Hola, I'am PramodhKumar!👋
+Hi 👋, I'am PramodhKumar!
 
 - 🔭 I’m currently working on Internship
 - 🌱 I’m currently learning Python With machine Learning
@@ -10,19 +10,19 @@ Hola, I'am PramodhKumar!👋
 - ⚡ Fun fact: I spend almost 2 hours for playing chess every day 
 
 #About me
+Hi 👋, everyone!
+I am Pursuing Computer Science & Engineering.
 
-      👉I am a Freshman pursuing Computer Science Engineering @N.B.K.R INSTITUTE OF SCIENCE AND TECHNOLOGY(Nellore). 
-      
-      __I am always ready to have new experiences, meet new people and learn new things.
-      
-      __I like pushing myself and taking up new challenges.
-      
-      👉I enjoy reading books and Solving problems using Computer Science.
-      
-      👉I enjoy building Software Projects.
+I am always ready to have new experiences, meet new people and learn new things.
 
-      👉I love playing music🎵, video editing and Graphic designing.
+I like pushing myself and taking up new challenges.
 
-      👉I love Probability and Calculus, I enjoy challenges that enables me to grow.
+I enjoy reading books and Solving problems using Computer Science.
 
-      👉I love reading books on almost all genres.  I also like playing Shuttle 🏸 & Chess♟️
+I enjoy building Software Projects.
+
+I love playing music 🎵, video editing and Graphic designing.
+
+I love Probability and Calculus, I enjoy challenges that enables me to grow.
+
+I love reading books on almost all genres.  I also like playing Shuttle 🏸 & Chess♟️
