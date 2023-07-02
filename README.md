@@ -13,16 +13,16 @@ Hi 👋, I'am PramodhKumar!
 Hi 👋, everyone!
 I am Pursuing Computer Science & Engineering.
 
-I am always ready to have new experiences, meet new people and learn new things.
+I am always ready to have new experiences, meet new people, and learn new things🤝
 
-I like pushing myself and taking up new challenges.
+I like pushing myself and taking up new challenges 🚀
 
-I enjoy reading books and Solving problems using Computer Science.
+I enjoy reading books and Solving problems using Computer Science💭
 
 I enjoy building Software Projects.
 
-I love playing music 🎵, video editing and Graphic designing.
+I love playing music 🎵, video editing, and Graphic designing.
 
-I love Probability and Calculus, I enjoy challenges that enables me to grow.
+I love Probability and Calculus, I enjoy challenges that enable me to grow.
 
-I love reading books on almost all genres.  I also like playing Shuttle 🏸 & Chess♟️
+I love reading books of almost all genres.  I also like playing Shuttle 🏸, Chess ♟️& Cricket 🏏
