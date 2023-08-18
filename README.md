@@ -9,7 +9,7 @@ Hi 👋, I'am PramodhKumar!
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I spend almost 2 hours for playing chess every day 
 
-#About me
+
 Hi 👋, everyone!
 I am Pursuing Computer Science & Engineering.
 
