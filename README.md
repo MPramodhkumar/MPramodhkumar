@@ -24,4 +24,4 @@ I love playing music 🎵, video editing, and Graphic designing.
 
 I love Probability and Calculus, I enjoy challenges that enable me to grow..
 
-I love reading books of almost all genres.  I also like playing Shuttle 🏸, Chess ♟️ and Cricket 🏏
+I love reading books of almost all genres.  I also like playing Shuttle 🏸, Chess ♟️ and Cricket 🏏.
